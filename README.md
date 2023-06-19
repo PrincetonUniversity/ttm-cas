@@ -1,6 +1,6 @@
 # Time-To-Market, Chip Agility Score (CAS), and Cost Modeling
 
-In this repo are the relevant datasets used in our time-to-market model and chip agility score calculations in our [Supply Chain Aware Computer Architecture](https://dl.acm.org/doi/10.1145/3579371.3589052) paper to be presented at ISCA 2023. Please reach out if you have any questions.
+In this repo are the relevant datasets used in our time-to-market model and chip agility score calculations in our [Supply Chain Aware Computer Architecture](https://dl.acm.org/doi/10.1145/3579371.3589052) paper presented at ISCA 2023. Please reach out if you have any questions.
 
 ### How to use
 There are two relevant files:
