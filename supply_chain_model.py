@@ -64,7 +64,7 @@ wafer_costs_arr = [900, 1020, 1580, 1650, 1937, 2274, \
 
 # transistor densities are taken from "AI Chips" by Saif M. Khan and Alexander Mann
 # transistor density is million transistors per mm2
-transistor_density_arr = np.array([0.074, 0.39, 0.92, 1.6, 3.3, 7.7, 15.3, 22.1, 28.9, 52.5, 96.3, 171.3])
+transistor_density_arr = np.array([0.074, 0.39, 0.92, 1.6, 3.3, 7.7, 15.3, 22.1, 28.9, 52.5, 96.3, 138.2])
 transistor_node_indices = np.array([3, 4, 5, 6, 7, 8, 9, 10, 11])
 
 # wafer production rate is estimated from tsmc's quarterly earnings
